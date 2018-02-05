@@ -1,0 +1,4 @@
+/*
+The intention was to test at least one component
+however the data the API was producing changed mid development and I had to spend considerable time troubleshooting
+*/
