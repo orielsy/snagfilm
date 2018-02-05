@@ -1,7 +1,7 @@
 Snag Films
 =====================
 
-A minimal and light movie list in ReactJS. Please note that originally the API was producing films that had playable videos and as such I built a modal window to play videos. Unfortunately it would seem the latest films in the API don't have videos in the data that we can use. 
+A minimal and light movie list in ReactJS. Please note that originally the API was producing films that had playable videos and as such I built a modal window to play videos. Unfortunately it would seem the latest films served by the API don't have videos in the data that we can use. 
 
 ### Usage
 
